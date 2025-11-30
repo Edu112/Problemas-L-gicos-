@@ -56,12 +56,13 @@ ListaDoencas = [covid19, pneumonia, infarto].
 **O arquivo execucoes tem alguns testes.**
 
 
-##💡 Exemplos de Resultados Esperados
-
+## 💡 Exemplos de Resultados Esperados
+---
 Paciente p1 (joao, 45 anos):
 
 Sintomas: [febre_alta,tosse_seca,falta_ar]
 Doenças possíveis: [covid19,pneumonia,infarto]
 Exames recomendados: teste_pcr, raio_x_torax, eletrocardiograma, troponina
 Tratamentos sugeridos: isolamento, antibiotico, angioplastia
+
 
