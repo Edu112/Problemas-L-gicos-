@@ -1,0 +1,34 @@
+=== SISTEMA DE RACIOCÍNIO CLÍNICO ===
+
+=== PACIENTE p1 (joao, 45 anos) ===
+Sintomas: [febre_alta,tosse_seca,falta_ar]
+Doenças possíveis: [covid19,pneumonia,infarto]
+Exame recomendado: covid19 -> teste_pcr
+Exame recomendado: pneumonia -> raio_x_torax
+Exame recomendado: infarto -> eletrocardiograma
+Exame recomendado: infarto -> troponina
+Tratamento sugerido: covid19 -> isolamento
+Tratamento sugerido: pneumonia -> antibiotico
+Tratamento sugerido: infarto -> angioplastia
+
+=== PACIENTE p2 (maria, 32 anos) ===
+Sintomas: [dor_cabeca,nausea]
+Doenças possíveis: [enxaqueca]
+Tratamento sugerido: enxaqueca -> analgesico
+
+=== PACIENTE p3 (carlos, 67 anos) ===
+Sintomas: [dor_peito,falta_ar,sudorese]
+Doenças possíveis: [covid19,pneumonia,infarto]
+Exame recomendado: covid19 -> teste_pcr
+Exame recomendado: pneumonia -> raio_x_torax
+Exame recomendado: infarto -> eletrocardiograma
+Exame recomendado: infarto -> troponina
+Tratamento sugerido: covid19 -> isolamento
+Tratamento sugerido: pneumonia -> antibiotico
+Tratamento sugerido: infarto -> angioplastia
+
+=== RESUMO ===
+Pacientes atendidos: 3
+Doenças possíveis: 1
+Exames recomendados: 4
+
